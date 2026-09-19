@@ -20,4 +20,4 @@ In addition, I will have a file named "info.html" in my github.  It is very shor
 
 Shoutout to oraN [1778676] for his tool, and help financing this last round of updates.
 
-And a shoutout to Glasnost [1844049], who also helped with financing, as well as using his FFScoter tool to give me a list of high quality potential targets to have spied.  That save a lot of work, and a lot of money.
+And a shoutout to Glasnost [1844049], who also helped with financing, as well as using his FFScouter tool to give me a list of high quality potential targets to have spied.  That save a lot of work, and a lot of money.
