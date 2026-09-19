@@ -1,18 +1,20 @@
-This is for the game torn.com.  In game, I am known as Baldr [1847600].
+Note to developers:
+
+This is for the game torn.com.  In game, I am known as Baldr [1847600].  You probably already know me and my guide, or you wouldn't be reading this.
 
 I have a very well known guide for new players.  https://www.torn.com/forums.php#!p=threads&f=61&t=16034448&b=0&a=0
 
 As part of that guide, I have a list of good targets to use for leveling up.
 
-All of these targets are low stats (under 1,000 total) but relatively high level, because higher levels give better experience.
-
-And they are all inactive targets.  So from time to time they change.
+All of these targets are low stats (under 1,000 total) but relatively high level, because higher levels give better experience.  And they are all inactive targets, at least when I add them.
 
 I have those targets here in .json format.  Anyone is welcome to use those in any way, but I strongly recommend you design your software to refresh your data from my github.
 
-It doesn't happen often, but several times since I first created the target list, I have gone looking for new targets, expanding it and making it much bigger.  
+The targets change over time.
 
-And sometimes, targets have to be removed because they are active again.  For one thing, it's not fair to make a target of someone trying to play.  For another, they will train, so their stats will go up.
+It doesn't happen often, but several times since I first created the target list, I have gone looking for new targets, expanding it and making it much bigger.   And sometimes, targets have to be removed because they are active again.  For one thing, it's not fair to make a target of someone trying to play.  For another, they will train, so their stats will go up, and they will no longer be the soft squishy target that the newbies are expecting.  So if you grab these targets from my github, with some system to update regularly, it gives me a way to make updates.  Otherwise, your tool will be out of date soon at some point.
 
-In addition, I will have a file named "info.html".  It is very short, in html format, and I would ask that anyone building a tool using these targets display it.  
+I would like anyone using this list to watch the targets "last active" date and simply not display them if it is less than 150 days ago.  I do remove them when I know they have been active, but that takes some time, and a program can easily watch for that so they stop getting attacked soon after they log in again.
+
+In addition, I will have a file named "info.html" in my github.  It is very short, in html format, and I would ask that anyone building a tool using these targets display it.  
 
