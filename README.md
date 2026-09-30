@@ -18,6 +18,6 @@ I would like anyone using this list to watch the targets "last active" date and 
 
 In addition, I will have a file named "info.html" in my github.  It is very short, in html format, and I would ask that anyone building a tool using these targets display it.  
 
-Shoutout to oraN [1778676] for his tool, and his help financing this last round of updates.
+A huge thank you to oraN [1778676] for his tool, and his help financing this last round of updates.
 
 And a shoutout to Glasnost [1844049], who also helped with financing, as well as using his FFScouter tool to give me a list of high quality potential targets to have spied.  That saved a lot of work, and a lot of money.
